@@ -1,7 +1,7 @@
 # Portfolio
 My personal portfolio showcasing Agentic AI, Generative AI
 
-[![My Clone] (https://youtube.com/shorts/2xnlkPJzBbY)]
+[![My Clone] (https://www.youtube.com/shorts/3DGXunAxh4Y)]
 
 [![Faded Echos Song] (https://youtube.com/shorts/yy6ybykdplI)]
 
